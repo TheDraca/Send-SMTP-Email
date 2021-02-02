@@ -1,0 +1,15 @@
+{
+  "Exchange": {
+    "Host": "",
+    "Port": "587",
+    "LoginDomain": "example",
+    "LoginUsername": "person1",
+    "LoginPassword": ""
+  },
+  "Mail": {
+    "From": "no_reply@example.com",
+    "To": ["inbox@example.com"],
+    "Subject": "Auto Mail",
+    "MessageBody": "Dear Person,\nMain body of message \n\nThanks"
+  }
+}
